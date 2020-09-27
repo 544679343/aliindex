@@ -1,0 +1,42 @@
+* {
+  color: white;
+}
+
+.header {
+  background-color: #2c2f33;
+  height: 48px;
+  overflow: hidden;
+}
+
+.left {
+  margin-top: 16px;
+}
+
+img {
+  width: 120px;
+  height: 30px;
+}
+
+i {
+  margin-left: 5px;
+}
+
+.menu {
+  background-color: #2c2f33;
+}
+
+.right {
+  margin-top: 16px;
+  color: white;
+}
+
+a {
+  color: inherit;
+  margin-left: 5px;
+}
+
+.menu-item :hover {
+  color: #F37327;
+}
+
+

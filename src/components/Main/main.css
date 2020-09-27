@@ -1,0 +1,164 @@
+div {
+  display: block;
+}
+
+.main {
+  width: 100%;
+  height: 478px;
+  overflow: hidden;
+  font-family: PingFangSC-Regular;
+  position: relative;
+  background-image: url("https://img.alicdn.com/tfs/TB14TEEm7CWBuNjy0FaXXXUlXXa-1440-478.png");
+  background-size: cover;
+}
+
+.main-middle {
+  width: 490px;
+  height: 295px;
+  margin-top: 145px;
+  margin-left: 500px;
+  /* background: pink; */
+  font-size: 20px;
+}
+
+
+.hot-text {
+  font-size: 14px;
+}
+
+.newPosition {
+  width: 100%;
+  height: 364px;
+  overflow: hidden;
+}
+
+.newPosition-content {
+  width: 1180px;
+  height: 300px;
+  margin: 32px auto;
+}
+
+.content-list {
+  width: 850px;
+  height: 300px;
+  background: #FFFFFF;
+  box-shadow: 0 0 15px 0 rgba(31,56,88,0.08);
+  border-radius: 3px;
+  float: left;
+  overflow: hidden;
+  position: relative;
+}
+
+.content-logo {
+  width: 310px;
+  float: right;
+  background: pink;
+}
+
+.list-header {
+  height: 49px;
+	border-bottom: 1px solid rgba(31,56,88,0.06);
+	line-height: 49px;
+	padding: 0 14px;
+	/* opacity: 0.8; */
+	background: white;
+	font-size: 14px;
+	color: #000000;
+	position: relative;
+	z-index: 2;
+}
+
+.list-header a {
+	float: right;
+	font-size: 14px;
+	color: rgba(31,56,88,0.60);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.list-main {
+  list-style: none;
+  position: absolute;
+	z-index: 1;
+	top: 50px;
+	width: 100%;
+}
+
+.list-main li {
+  overflow: hidden;
+	padding: 0 14px;
+  line-height: 50px;
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.list{
+  float: left;
+	color: #3C99D8;
+	cursor: pointer;
+	font-size: 14px;
+	width: 400px;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
+
+.time {
+  font-style: normal;
+	float: right;
+	width: 70px;
+	text-align: right;
+	font-size: 14px;
+	color: rgba(31,56,88,0.60);
+}
+
+.city {
+  float: right;
+	font-style: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,0.60);
+	margin-right: 70px;
+	width: 202px;
+	overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.content-logo {
+  width: 310px;
+  float: right;
+  display: block;
+  background: #FFFFFF;
+}
+
+.show-pic {
+	display: block;
+	cursor: pointer;
+	height: 140px;
+	background: #FFFFFF;
+	box-shadow: 0 0 15px 0 rgba(31,56,88,0.08);
+	border-radius: 3px;
+}
+.pic-1 {
+  margin-bottom: 20px;
+  text-align: center;
+  line-height: 140px;
+}
+
+.pic-1 img {
+  width: 179px;
+  vertical-align: middle;
+  border: 0;
+}
+
+.pic-2 {
+  text-align: center;
+  line-height: 140px;
+}
+
+.pic-2 img {
+  width: 260px;
+  vertical-align: middle;
+  border: 0;
+}
+
