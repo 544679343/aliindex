@@ -1,0 +1,16 @@
+div {
+  display: block;
+}
+
+.newPosition {
+  height: 364px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.newPosition-content {
+  width: 1180px;
+  height: 300px;
+  margin: 32px auto;
+  font-family: PingFangSC-Regular;
+}

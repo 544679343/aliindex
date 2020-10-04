@@ -1,16 +1,18 @@
 import React from 'react';
 import './App.css';
 import Header from './components/Header'
-import Main from './components/Main'
+import TopMain from './components/TopMain'
+import BotMain from './components/BotMain'
 import Footer from './components/Footer'
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
-      <Main />
+      <TopMain />
+      <BotMain />
       <Footer />
-    </div>
+    </>
   );
 }
 
