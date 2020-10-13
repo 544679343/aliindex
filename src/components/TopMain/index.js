@@ -11,24 +11,24 @@ export default () => {
           <p className="en-world">If not now, when?</p>
           <p className="en-world">If not me, who?</p>
           <p className="cn-world">此时此刻，非我莫属！</p>
-          <div class="search-box">
+          <div className="search-box">
             <span className="search-topic">请输入职位关键词</span>
             <div className="search-bg"></div>
-            <input type="text" className="search-text" maxlength="30" topic="请输入职位关键词" />
-            <input type="submit" class="search-btn" value="搜索" />
+            <input type="text" className="search-text" maxLength="30" topic="请输入职位关键词" />
+            <input type="submit" className="search-btn" value="搜索" />
           </div>
-          <div class="hot-text">
+          <div className="hot-text">
             热门搜索：
-						<a class="search-key" href="/" >JAVA</a>
-            <a class="search-key" href="/" >IOS</a>
-            <a class="search-key" href="/" >数据</a>
-            <a class="search-key" href="/" >安全</a>
-            <a class="search-key" href="/" >搜索</a>
-            <a class="search-key" href="/" >算法</a>
-            <a class="search-key" href="/" >运营</a>
-            <a class="search-key" href="/" >视觉</a>
-            <a class="search-key" href="/" >交互</a>
-            <a class="search-key" href="/" >前端</a>
+						<a className="search-key" href="/" >JAVA</a>
+            <a className="search-key" href="/" >IOS</a>
+            <a className="search-key" href="/" >数据</a>
+            <a className="search-key" href="/" >安全</a>
+            <a className="search-key" href="/" >搜索</a>
+            <a className="search-key" href="/" >算法</a>
+            <a className="search-key" href="/" >运营</a>
+            <a className="search-key" href="/" >视觉</a>
+            <a className="search-key" href="/" >交互</a>
+            <a className="search-key" href="/" >前端</a>
           </div>
         </div>
       </div>

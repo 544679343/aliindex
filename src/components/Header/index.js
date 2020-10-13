@@ -11,8 +11,8 @@ export default () => {
           </a>
           <i className="first-i">|</i>
           <i className="second-i">社招官网</i>
-          <ul class="" id="menu">
-            <li class="current current-cat" value="1">
+          <ul className="" id="menu">
+            <li className="current current-cat" value="1">
               <a href="https://job.alibaba.com/zhaopin/index.htm">首 &nbsp;&nbsp;页</a>
             </li>
             <li>
@@ -27,10 +27,10 @@ export default () => {
             <li>
               <a href="https://job.alibaba.com/zhaopin/apply.htm">个人中心</a>
             </li>
-            <div className="login" data-spm-anchor-id="a2obv.11410899.0.i1.7c866c61JqH4ma">
+            <div className="login">
               欢迎来到阿里巴巴集团招聘！
 					    <a href="https://passport.alibaba.com/login.htm?appName=hrjob&amp;params=https%3A%2F%2Fjob.alibaba.com%2F%2Fzhaopin%2Findex.html" target="_top">登录</a>
-								| <a href="http://member1.taobao.com/member/newbie.htm">注册</a>
+              &nbsp;| <a href="http://member1.taobao.com/member/newbie.htm">注册</a>
             </div>
           </ul>
         </div>

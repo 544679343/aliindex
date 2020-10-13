@@ -1,5 +1,5 @@
 import React from 'react'
-import '../BotMain/botmain.css'
+import '../Main/main.css'
 import Position from './Position'
 import Picture from './Picture'
 
