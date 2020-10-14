@@ -19,16 +19,16 @@ export default () => {
           </div>
           <div className="hot-text">
             热门搜索：
-						<a className="search-key" href="/" >JAVA</a>
-            <a className="search-key" href="/" >IOS</a>
-            <a className="search-key" href="/" >数据</a>
-            <a className="search-key" href="/" >安全</a>
-            <a className="search-key" href="/" >搜索</a>
-            <a className="search-key" href="/" >算法</a>
-            <a className="search-key" href="/" >运营</a>
-            <a className="search-key" href="/" >视觉</a>
-            <a className="search-key" href="/" >交互</a>
-            <a className="search-key" href="/" >前端</a>
+						<a className="search-key" href="javascript:;" >JAVA</a>
+            <a className="search-key" href="javascript:;" >IOS</a>
+            <a className="search-key" href="javascript:;" >数据</a>
+            <a className="search-key" href="javascript:;" >安全</a>
+            <a className="search-key" href="javascript:;" >搜索</a>
+            <a className="search-key" href="javascript:;" >算法</a>
+            <a className="search-key" href="javascript:;" >运营</a>
+            <a className="search-key" href="javascript:;" >视觉</a>
+            <a className="search-key" href="javascript:;" >交互</a>
+            <a className="search-key" href="javascript:;" >前端</a>
           </div>
         </div>
       </div>
